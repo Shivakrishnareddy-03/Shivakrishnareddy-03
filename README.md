@@ -24,9 +24,40 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+---
+
+## 💼 Experience
+
+### Data Analyst · [Swinfy Solutions](https://www.swinfy.com)
+
+Core team member on **[Naamji](https://naamji.com)**, a live Indian baby-name platform with a 50,000-name catalogue.
+
+<p>
+<a href="https://naamji.com"><img src="https://img.shields.io/badge/Live_Site-naamji.com-C9A227?style=flat-square&logo=googlechrome&logoColor=white" alt="Live site" /></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+<p align="center">
+<a href="https://naamji.com"><img src="assets/naamji.jpg" width="760" alt="Naamji homepage" /></a>
+</p>
+
+- **Names data:** cleaned and structured the names catalogue and wrote the SQL behind it, so names can be filtered by religion, language, gender, rashi, Nakshatra, numerology and starting syllable
+- **Backend:** fitted the data model into the app's Supabase (PostgreSQL) backend
+- **Name cards:** designed and built every shareable name card, rendered dynamically for each name
+- **Pages:** built the admin dashboard and the user pages, including profile, quiz results and shortlist sharing for family voting
+- **Production support:** fixed bugs and errors on the live site
+
+*The codebase is private company work; the product is live at [naamji.com](https://naamji.com).*
 
 ---
 
