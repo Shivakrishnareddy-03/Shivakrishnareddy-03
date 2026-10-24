@@ -44,7 +44,7 @@ Raw e-commerce CSVs → normalised PostgreSQL database → tested dbt star schem
 A two-person project with [Khasim Shaik](https://github.com/Khasim0210): he built the 3NF database and ingestion (Phase 1); I built the analytics layer and the app (Phases 2 and 3).
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Shivakrishnareddy-03/E-Commerce-Order-Analytics-Platform/main/star_schema.png" width="720" alt="Star schema: fact_order_items with customer, product, seller and date dimensions" />
+<a href="https://e-commerce-order-analytics-platform.onrender.com"><img src="assets/dashboard.png" width="760" alt="Live Streamlit dashboard: key metrics, monthly revenue trend and order status" /></a>
 </p>
 
 <details>
@@ -56,6 +56,16 @@ A two-person project with [Khasim Shaik](https://github.com/Khasim0210): he buil
 - **Advanced SQL:** CTEs and window functions (LAG, RANK, cumulative sums, cohort retention), tuned with indexes and `EXPLAIN ANALYZE`
 - **Dashboard:** Streamlit + Plotly, 6 charts and 3 live filters, every chart querying the live Neon PostgreSQL database
 - **Deployment:** Render, with continuous deployment from GitHub
+
+</details>
+
+<details>
+<summary><b>Data model</b> (click to expand)</summary>
+<br>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Shivakrishnareddy-03/E-Commerce-Order-Analytics-Platform/main/star_schema.png" width="720" alt="Star schema: fact_order_items with customer, product, seller and date dimensions" />
+</p>
 
 </details>
 
@@ -76,6 +86,16 @@ A two-person project with [Khasim Shaik](https://github.com/Khasim0210): he buil
 - 🎓 MSc modules: Regression Models, Statistical Inference, Probability, Databases and R programming
 - 📊 Finishing the UK Data Job Market analysis
 - 🤖 Building Beru in my spare time
+
+---
+
+## 🐍 Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivakrishnareddy-03/Shivakrishnareddy-03/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivakrishnareddy-03/Shivakrishnareddy-03/output/github-snake.svg" />
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Shivakrishnareddy-03/Shivakrishnareddy-03/output/github-snake.svg" />
+</picture>
 
 <div align="center">
 
